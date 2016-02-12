@@ -5,7 +5,8 @@ Loxo is a queryable GeoJSON API. Loxo digest various geographic formats (shapefi
 intuitive endpoints that make dealing with geographic data easy.
 
 ## How does it work?
-Lets say we ingest a geojson file called cupcakes.geojson which contains a selection of point data representing cupcakes shops in Portland. We will get
+Lets say we ingest a geojson file called cupcakes.geojson which contains a selection of point data representing cupcakes shops in Portland. We can do a variety
+of operations to access that data in different manners.
 
 Return the GeoJSON as is:
 
