@@ -12,7 +12,7 @@ Return the GeoJSON as is:
 
     loxo/cupcakes/collections/cupcakes
 
-Withing a specified proximity from a WGS84 longitude and latitude:
+Get geometries within a specified proximit from a WGS84 longitude and latitude:
 
     loxo/cupcakes/collections/cupcakes?withinProximity=-122.65335738658904,45.512083676585156,1000
 
@@ -20,11 +20,9 @@ The points within the donut expressed (point, exclusion zone, donut radius):
 
     loxo/cupcakes/collections/cupcakes?withinDonut=-122.65335738658904,45.512083676585156,100,5000
 
-
 The closest distance between any two points:
 
     loxo/cupcakes/collections/cupcakes/stats/minDistance
-
 
 
 ## How do I set it up?
