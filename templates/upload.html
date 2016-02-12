@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Upload a file to Loxo</title>
+    <link rel="stylesheet" href="./../static/css/upload.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.3/css/materialize.min.css">
+    <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.3/js/materialize.min.js"></script>
+    <style>
+
+    </style>
+</head>
+<body>
+    <div class="container upload-container">
+        <div class="row card upload-info">
+            <div class="col s12">
+                <h3 class="title"> Loxo - Upload a File </h3>
+                <br>
+                <div class="container" >
+                    <p>
+                        Loxo allows users to upload static files to their API in order to turn them into endpoints.
+                        The endpoint will end up the database specified under collections. i.e. loxo/database/collections/filename
+                    </p>
+
+                    <br>
+                    <h5>Accepted File Formats <i class="material-icons upload">present_to_all</i></h5>
+                    <ul>
+                        <li>GeoJSON</li>
+                        <li>Shapefile</li>
+                        <li>KML</li>
+                        <li>CSV (Point Data)</li>
+                    </ul>
+                    <br>
+
+                    <form action="" method="POST" enctype=multipart/form-data>
+                        <div class="input-field col s6 database-holder">
+                          <input name="database" id="database" type="text" class="validate">
+                          <label for="database">Database</label>
+                        </div>
+                        <br>
+                        <input type="file" name="file">
+                        <input class="upload-button" type="submit" value="Upload">
+                    </form>
+                </div>
+                <br>
+                <br>
+                <br>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Loxo - Viewer</title>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.3/css/materialize.min.css">
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" href="../static/css/leaflet.css">
+    <link rel="stylesheet" href="../static/css/viewer.css">
+    <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+    <link rel="stylesheet" href="//rawgithub.com/domoritz/leaflet-locatecontrol/gh-pages/dist/L.Control.Locate.min.css" />
+    <!--[if lt IE 9]>
+    <link rel="stylesheet" href="//rawgithub.com/domoritz/leaflet-locatecontrol/gh-pages/dist/L.Control.Locate.ie.min.css"/>
+    <![endif]-->
+
+    <script src="../static/javascript/leaflet.js"></script>
+    <script src="//rawgithub.com/domoritz/leaflet-locatecontrol/gh-pages/dist/L.Control.Locate.min.js" ></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.3/js/materialize.min.js"></script>
+</head>
+<body>
+
+    <div class="container viewer-container">
+        <div class="card viewer-info">
+            <div class="row">
+                <h3 class="title">Loxo - GeoJSON Viewer</h3>
+            </div>
+
+            <div class="row">
+                <div class="container map-holder">
+                   <div class="col s12 map" id="map"></div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="container url-holder ">
+                    <form id="url-input">
+                        <div class="input-field url-input">
+                            <input placeholder="GeoJSON Endpoint" id="geojson-endpoint" type="text" class="s12 validate">
+                            <label for="geojson-endpoint">GeoJSON Endpoint to View </label>
+                        </div>
+                        <div class="input-field submit">
+                             <button class="btn blue-grey waves-effect waves-light submit-button " type="button" name="action" onclick="viewGeoJson(this)">View
+                             </button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <script src="../static/javascript/viewer.js"></script>
+</body>
+</html>

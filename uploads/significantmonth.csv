@@ -1,0 +1,15 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+2015-11-27T21:00:22.680Z,-24.8174,-70.6323,35,6.2,mww,,45,0.282,1.49,us,us100041t7,2015-11-28T19:14:13.955Z,"66km NNW of Taltal, Chile",earthquake
+2015-11-26T05:45:18.300Z,-9.1912,-71.288,599.35,6.7,mwb,,19,2.018,1.19,us,us100041f1,2015-11-27T15:46:32.000Z,"127km SSW of Tarauaca, Brazil",earthquake
+2015-11-24T22:50:53.770Z,-10.0475,-71.0226,611.71,7.6,mww,,15,2.84,0.99,us,us100040x6,2015-11-26T00:49:02.039Z,"210km S of Tarauaca, Brazil",earthquake
+2015-11-24T22:45:38.060Z,-10.5484,-70.9038,600.63,7.6,mww,,16,3.317,0.93,us,us100040ww,2015-11-28T01:16:41.370Z,"169km WNW of Iberia, Peru",earthquake
+2015-11-19T07:42:12.760Z,36.661,-98.4612,6.23,4.7,mwr,,98,0.246,0.18,us,us10003zgz,2015-11-25T20:20:56.120Z,"13km SW of Cherokee, Oklahoma",earthquake
+2015-11-18T18:31:04.600Z,-8.9288,158.4102,13.39,7,mww,,23,1.6,0.82,us,us10003zcp,2015-11-19T03:41:04.877Z,"118km SW of Dadali, Solomon Islands",earthquake
+2015-11-17T07:10:08.740Z,38.7548,20.5519,11.07,6.5,mwb,,39,1.417,1,us,us10003ywp,2015-11-20T07:21:11.369Z,"14km WNW of Nidri, Greece",earthquake
+2015-11-13T20:51:30.990Z,30.9915,128.8768,12,6.7,mww,,17,1.445,1.13,us,us10003y71,2015-11-14T16:52:21.206Z,"140km WSW of Makurazaki, Japan",earthquake
+2015-11-11T02:46:19.900Z,-29.4726,-72.1288,10,6.9,mww,,28,0.893,1.5,us,us10003x9g,2015-11-19T01:58:43.687Z,"92km NW of Coquimbo, Chile",earthquake
+2015-11-11T01:54:38.530Z,-29.4834,-72.0354,12,6.9,mww,,27,0.817,1.15,us,us10003x8t,2015-11-19T01:22:58.582Z,"84km NW of Coquimbo, Chile",earthquake
+2015-11-08T16:47:02.140Z,6.8456,94.6609,10,6.4,mwb,,31,2.783,1.23,us,us10003vry,2015-11-09T04:37:22.000Z,"128km NW of Sabang, Indonesia",earthquake
+2015-11-07T07:31:43.150Z,-30.9048,-71.5456,37.56,6.8,mww,,26,0.242,1.32,us,us10003vgt,2015-11-12T01:01:15.542Z,"47km SW of Ovalle, Chile",earthquake
+2015-11-04T03:44:15.330Z,-8.3531,124.8991,14.33,6.3,mwp,,21,1.526,1.34,us,us200041ty,2015-11-04T21:54:36.568Z,"77km WNW of Dili, East Timor",earthquake
+2015-11-02T06:29:06.120Z,34.1669,-112.1024,6.5,4.1,mb,,71,0.602,0.5,us,us2000419p,2015-11-15T16:01:56.917Z,"11km NNE of Black Canyon City, Arizona",earthquake

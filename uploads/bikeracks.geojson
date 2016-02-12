@@ -1,0 +1,3029 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.48983441, 
+                    43.45002916
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "DERO RACK", 
+                "CAPACITY": "2", 
+                "OBJECTID": "1", 
+                "SOURCE": "MAY 2014 WALKABOUT", 
+                "BIKERACKSID": "44176", 
+                "SOURCE_DATE": "2014-04-12T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.45002916", 
+                "LOCATION": "ARTISAN ZONE"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.4923389, 
+                    43.45096162
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "DERO RACK", 
+                "CAPACITY": "2", 
+                "OBJECTID": "2", 
+                "SOURCE": "MAY 2014 WALKABOUT", 
+                "BIKERACKSID": "44173", 
+                "SOURCE_DATE": "2014-04-12T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.45096162", 
+                "LOCATION": "ENTERTAINING ELEMENTS"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.48549415, 
+                    43.44919776
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "DERO RACK", 
+                "CAPACITY": "2", 
+                "OBJECTID": "3", 
+                "SOURCE": "JOSH JOSEPH 2013", 
+                "BIKERACKSID": "34787", 
+                "SOURCE_DATE": "2013-05-22T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.44919776", 
+                "LOCATION": "SCOTT ST (THRIFT STORE)"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.48385526, 
+                    43.44758916
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "DERO RACK", 
+                "CAPACITY": "2", 
+                "OBJECTID": "4", 
+                "SOURCE": "MAY 2014 WALKABOUT", 
+                "BIKERACKSID": "34789", 
+                "SOURCE_DATE": "2014-04-12T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.44758916", 
+                "LOCATION": "KING ST E (MARKET)"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.4961674, 
+                    43.45217819
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "DERO RACK", 
+                "CAPACITY": "2", 
+                "OBJECTID": "5", 
+                "SOURCE": "SEPT 2013 WALKABOUT", 
+                "BIKERACKSID": "34771", 
+                "SOURCE_DATE": "2013-09-15T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.45217819", 
+                "LOCATION": "KING ST W (TD BANK)"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.4862216, 
+                    43.44862262
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "DERO RACK", 
+                "CAPACITY": "2", 
+                "OBJECTID": "6", 
+                "SOURCE": "MAY 2014 WALKABOUT", 
+                "BIKERACKSID": "44188", 
+                "SOURCE_DATE": "2014-04-12T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.44862262", 
+                "LOCATION": "100 KING ST E (THE RECORD)"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.4908355, 
+                    43.45041811
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "DERO RACK", 
+                "CAPACITY": "2", 
+                "OBJECTID": "7", 
+                "SOURCE": "SEPT 2013 WALKABOUT", 
+                "BIKERACKSID": "34780", 
+                "SOURCE_DATE": "2013-09-15T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.45041811", 
+                "LOCATION": "GLOSS"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.49056695, 
+                    43.45017937
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "DERO RACK", 
+                "CAPACITY": "2", 
+                "OBJECTID": "8", 
+                "SOURCE": "MAY 2014 WALKABOUT", 
+                "BIKERACKSID": "44174", 
+                "SOURCE_DATE": "2014-04-12T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.45017937", 
+                "LOCATION": "ZOUP"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.49706412, 
+                    43.45243621
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "DERO RACK", 
+                "CAPACITY": "2", 
+                "OBJECTID": "9", 
+                "SOURCE": "JOSH JOSEPH 2013", 
+                "BIKERACKSID": "34768", 
+                "SOURCE_DATE": "2013-05-22T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.45243621", 
+                "LOCATION": "KING ST W (ZIGGYS)"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.48793807, 
+                    43.44936864
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "DERO RACK", 
+                "CAPACITY": "2", 
+                "OBJECTID": "10", 
+                "SOURCE": "SEPT 2013 WALKABOUT", 
+                "BIKERACKSID": "34785", 
+                "SOURCE_DATE": "2013-09-15T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.44936864", 
+                "LOCATION": "KING ST E (CRABBY JOES)"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.48648355, 
+                    43.44873458
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "DERO RACK", 
+                "CAPACITY": "2", 
+                "OBJECTID": "11", 
+                "SOURCE": "MAY 2014 WALKABOUT", 
+                "BIKERACKSID": "44187", 
+                "SOURCE_DATE": "2014-04-12T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.44873458", 
+                "LOCATION": "100 KING ST E (THE RECORD)"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.48384631, 
+                    43.44746237
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "DERO RACK", 
+                "CAPACITY": "2", 
+                "OBJECTID": "12", 
+                "SOURCE": "MAY 2014 WALKABOUT", 
+                "BIKERACKSID": "44192", 
+                "SOURCE_DATE": "2014-04-12T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.44746237", 
+                "LOCATION": "232 KING ST E (MARINAS)"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.49267256, 
+                    43.45123188
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "DERO RACK", 
+                "CAPACITY": "2", 
+                "OBJECTID": "13", 
+                "SOURCE": "SEPT 2013 WALKABOUT", 
+                "BIKERACKSID": "34776", 
+                "SOURCE_DATE": "2013-09-15T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.45123188", 
+                "LOCATION": "KING ST W (CITY HALL)"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.49271717, 
+                    43.45124826
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "DERO RACK", 
+                "CAPACITY": "2", 
+                "OBJECTID": "14", 
+                "SOURCE": "SEPT 2013 WALKABOUT", 
+                "BIKERACKSID": "34775", 
+                "SOURCE_DATE": "2013-09-15T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.45124826", 
+                "LOCATION": "KING ST W (CITY HALL)"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.48553176, 
+                    43.45325172
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "SECURE CAGE", 
+                "CAPACITY": "", 
+                "OBJECTID": "15", 
+                "SOURCE": "", 
+                "BIKERACKSID": "49190", 
+                "SOURCE_DATE": "2014-09-23T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.45325172", 
+                "LOCATION": "KPL MAIN BRANCH"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.49240868, 
+                    43.45123226
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "COMMUNITY ACCESS BIKESHARE", 
+                "CAPACITY": "16", 
+                "OBJECTID": "16", 
+                "SOURCE": "DANNY PIMENTAL", 
+                "BIKERACKSID": "27623", 
+                "SOURCE_DATE": "2015-06-24T00:00:00.000Z", 
+                "OWNERSHIP": "PRIVATE", 
+                "Y": "43.45123226", 
+                "LOCATION": "200 KING ST W"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.48401976, 
+                    43.44798467
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "COMMUNITY ACCESS BIKESHARE", 
+                "CAPACITY": "16", 
+                "OBJECTID": "17", 
+                "SOURCE": "DANNY PIMENTAL", 
+                "BIKERACKSID": "28990", 
+                "SOURCE_DATE": "2015-06-24T00:00:00.000Z", 
+                "OWNERSHIP": "PRIVATE", 
+                "Y": "43.44798467", 
+                "LOCATION": "KITCHENER MARKET"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.48650247, 
+                    43.45289075
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "COMMUNITY ACCESS BIKESHARE", 
+                "CAPACITY": "16", 
+                "OBJECTID": "18", 
+                "SOURCE": "DANNY PIMENTAL", 
+                "BIKERACKSID": "28979", 
+                "SOURCE_DATE": "2015-06-24T00:00:00.000Z", 
+                "OWNERSHIP": "PRIVATE", 
+                "Y": "43.45289075", 
+                "LOCATION": "KPL"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.49260474, 
+                    43.44977328
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "COMMUNITY ACCESS BIKESHARE", 
+                "CAPACITY": "16", 
+                "OBJECTID": "19", 
+                "SOURCE": "DANNY PIMENTAL", 
+                "BIKERACKSID": "53302", 
+                "SOURCE_DATE": "2015-06-24T00:00:00.000Z", 
+                "OWNERSHIP": "PRIVATE", 
+                "Y": "43.44977328", 
+                "LOCATION": "GRT TRANSIT  CHARLES ST TERMINAL "
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.49811428, 
+                    43.45133346
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "COMMUNITY ACCESS BIKESHARE", 
+                "CAPACITY": "16", 
+                "OBJECTID": "20", 
+                "SOURCE": "DANNY PIMENTAL", 
+                "BIKERACKSID": "53303", 
+                "SOURCE_DATE": "2015-06-24T00:00:00.000Z", 
+                "OWNERSHIP": "PRIVATE", 
+                "Y": "43.45133346", 
+                "LOCATION": "THE TANNERY"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.489386, 
+                    43.4488714
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "COMMUNITY ACCESS BIKESHARE", 
+                "CAPACITY": "16", 
+                "OBJECTID": "21", 
+                "SOURCE": "DANNY PIMENTAL", 
+                "BIKERACKSID": "1012", 
+                "SOURCE_DATE": "2015-06-24T00:00:00.000Z", 
+                "OWNERSHIP": "PRIVATE", 
+                "Y": "43.4488714", 
+                "LOCATION": "CHARLES/BENTON PARKING GARAGE"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.48349585, 
+                    43.45297901
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "RACK", 
+                "CAPACITY": "10+", 
+                "OBJECTID": "22", 
+                "SOURCE": "JOSH JOSEPH", 
+                "BIKERACKSID": "1005", 
+                "SOURCE_DATE": "2012-04-20T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.45297901", 
+                "LOCATION": "LOT 14"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.48949482, 
+                    43.44855908
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "RACK", 
+                "CAPACITY": "10", 
+                "OBJECTID": "23", 
+                "SOURCE": "JOSH JOSEPH", 
+                "BIKERACKSID": "1007", 
+                "SOURCE_DATE": "2012-04-20T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.44855908", 
+                "LOCATION": "LOT 7"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.48856494, 
+                    43.45037272
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "RACK", 
+                "CAPACITY": "10+", 
+                "OBJECTID": "24", 
+                "SOURCE": "JOSH JOSEPH", 
+                "BIKERACKSID": "1008", 
+                "SOURCE_DATE": "2012-04-20T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.45037272", 
+                "LOCATION": "LOT 2"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.48714063, 
+                    43.44965821
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "RACK", 
+                "CAPACITY": "10+", 
+                "OBJECTID": "25", 
+                "SOURCE": "JOSH JOSEPH", 
+                "BIKERACKSID": "1009", 
+                "SOURCE_DATE": "2012-04-20T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.44965821", 
+                "LOCATION": "FREDERICK ST OVERPASS"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.48975631, 
+                    43.45107595
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "RACK", 
+                "CAPACITY": "10+", 
+                "OBJECTID": "26", 
+                "SOURCE": "JOSH JOSEPH", 
+                "BIKERACKSID": "1010", 
+                "SOURCE_DATE": "2012-04-20T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.45107595", 
+                "LOCATION": "DUKE AND ONTARIO PARKING GARAGE"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.49624, 
+                    43.45171158
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "RACK", 
+                "CAPACITY": "12", 
+                "OBJECTID": "27", 
+                "SOURCE": "JOSH JOSEPH", 
+                "BIKERACKSID": "1011", 
+                "SOURCE_DATE": "2012-04-20T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.45171158", 
+                "LOCATION": "LOT 3"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.49358, 
+                    43.45136064
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "RACK", 
+                "CAPACITY": "4", 
+                "OBJECTID": "28", 
+                "SOURCE": "SEPT 2013 WALKABOUT", 
+                "BIKERACKSID": "27608", 
+                "SOURCE_DATE": "2013-09-15T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.45136064", 
+                "LOCATION": "255 KING ST W"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.49573231, 
+                    43.45204234
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "RACK", 
+                "CAPACITY": "4", 
+                "OBJECTID": "29", 
+                "SOURCE": "SEPT 2013 WALKABOUT", 
+                "BIKERACKSID": "27612", 
+                "SOURCE_DATE": "2013-09-15T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.45204234", 
+                "LOCATION": "381 KING ST W"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.49474116, 
+                    43.4518317
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "RACK", 
+                "CAPACITY": "4", 
+                "OBJECTID": "30", 
+                "SOURCE": "SEPT 2013 WALKABOUT", 
+                "BIKERACKSID": "27614", 
+                "SOURCE_DATE": "2013-09-15T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.4518317", 
+                "LOCATION": "310 KING ST W"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.48808801, 
+                    43.44930314
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "RACK", 
+                "CAPACITY": "4", 
+                "OBJECTID": "31", 
+                "SOURCE": "SEPT 2013 WALKABOUT", 
+                "BIKERACKSID": "27616", 
+                "SOURCE_DATE": "2013-09-15T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.44930314", 
+                "LOCATION": "67 KING ST E"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.489751, 
+                    43.45011129
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "RACK", 
+                "CAPACITY": "4", 
+                "OBJECTID": "32", 
+                "SOURCE": "SEPT 2013 WALKABOUT", 
+                "BIKERACKSID": "27619", 
+                "SOURCE_DATE": "2013-09-15T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.45011129", 
+                "LOCATION": "36 KING ST E"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.4908937, 
+                    43.45055441
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "RACK", 
+                "CAPACITY": "4", 
+                "OBJECTID": "33", 
+                "SOURCE": "SEPT 2013 WALKABOUT", 
+                "BIKERACKSID": "27621", 
+                "SOURCE_DATE": "2013-09-15T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.45055441", 
+                "LOCATION": "98 KING ST E"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.49230398, 
+                    43.45148868
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "RACK", 
+                "CAPACITY": "10+", 
+                "OBJECTID": "34", 
+                "SOURCE": "JOSH JOSEPH", 
+                "BIKERACKSID": "27625", 
+                "SOURCE_DATE": "2012-04-20T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.45148868", 
+                "LOCATION": "200 KING ST W"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.48931714, 
+                    43.44999729
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "RACK", 
+                "CAPACITY": "10+", 
+                "OBJECTID": "35", 
+                "SOURCE": "SEPT 2013 WALKABOUT", 
+                "BIKERACKSID": "27632", 
+                "SOURCE_DATE": "2013-09-15T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.44999729", 
+                "LOCATION": "8 KING ST W"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.4854138, 
+                    43.44815859
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "RING AND POST", 
+                "CAPACITY": "2", 
+                "OBJECTID": "36", 
+                "SOURCE": "SEPT 2013 WALKABOUT", 
+                "BIKERACKSID": "28927", 
+                "SOURCE_DATE": "2013-09-15T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.44815859", 
+                "LOCATION": "LOT 23"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.48569142, 
+                    43.44822758
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "RING AND POST", 
+                "CAPACITY": "2", 
+                "OBJECTID": "37", 
+                "SOURCE": "SEPT 2013 WALKABOUT", 
+                "BIKERACKSID": "28928", 
+                "SOURCE_DATE": "2013-09-15T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.44822758", 
+                "LOCATION": "LOT 23"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.49709158, 
+                    43.4511775
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "RACK", 
+                "CAPACITY": "6", 
+                "OBJECTID": "38", 
+                "SOURCE": "JOSH JOSEPH", 
+                "BIKERACKSID": "28930", 
+                "SOURCE_DATE": "2012-04-20T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.4511775", 
+                "LOCATION": "TANNERY"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.49476596, 
+                    43.4515647
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "RACK", 
+                "CAPACITY": "6", 
+                "OBJECTID": "39", 
+                "SOURCE": "JOSH JOSEPH", 
+                "BIKERACKSID": "28933", 
+                "SOURCE_DATE": "2012-04-20T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.4515647", 
+                "LOCATION": "CHYM BUILDING"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.491753, 
+                    43.44951055
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "RING AND POST", 
+                "CAPACITY": "2", 
+                "OBJECTID": "40", 
+                "SOURCE": "JOSH JOSEPH", 
+                "BIKERACKSID": "28934", 
+                "SOURCE_DATE": "2012-04-20T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.44951055", 
+                "LOCATION": "GRT TERMINAL"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.48902144, 
+                    43.45139441
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "RACK", 
+                "CAPACITY": "5", 
+                "OBJECTID": "41", 
+                "SOURCE": "JOSH JOSEPH", 
+                "BIKERACKSID": "28965", 
+                "SOURCE_DATE": "2012-04-20T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.45139441", 
+                "LOCATION": "SERVICE ONTARIO"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.49176522, 
+                    43.44951597
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "RING AND POST", 
+                "CAPACITY": "2", 
+                "OBJECTID": "42", 
+                "SOURCE": "JOSH JOSEPH", 
+                "BIKERACKSID": "28935", 
+                "SOURCE_DATE": "2012-04-20T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.44951597", 
+                "LOCATION": "GRT TERMINAL"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.49177695, 
+                    43.44952102
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "RING AND POST", 
+                "CAPACITY": "2", 
+                "OBJECTID": "43", 
+                "SOURCE": "JOSH JOSEPH", 
+                "BIKERACKSID": "28936", 
+                "SOURCE_DATE": "2012-04-20T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.44952102", 
+                "LOCATION": "GRT TERMINAL"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.49178819, 
+                    43.44952608
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "RING AND POST", 
+                "CAPACITY": "2", 
+                "OBJECTID": "44", 
+                "SOURCE": "JOSH JOSEPH", 
+                "BIKERACKSID": "28937", 
+                "SOURCE_DATE": "2012-04-20T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.44952608", 
+                "LOCATION": "GRT TERMINAL"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.49241041, 
+                    43.44972896
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "SECURE LOCKER", 
+                "CAPACITY": "3", 
+                "OBJECTID": "45", 
+                "SOURCE": "JOSH JOSEPH", 
+                "BIKERACKSID": "28939", 
+                "SOURCE_DATE": "2012-04-20T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.44972896", 
+                "LOCATION": "GRT TERMINAL"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.49243126, 
+                    43.44969939
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "RING AND POST", 
+                "CAPACITY": "2", 
+                "OBJECTID": "46", 
+                "SOURCE": "JOSH JOSEPH", 
+                "BIKERACKSID": "28940", 
+                "SOURCE_DATE": "2012-04-20T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.44969939", 
+                "LOCATION": "GRT TERMINAL"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.49257056, 
+                    43.44975826
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "RING AND POST", 
+                "CAPACITY": "2", 
+                "OBJECTID": "47", 
+                "SOURCE": "JOSH JOSEPH", 
+                "BIKERACKSID": "28941", 
+                "SOURCE_DATE": "2012-04-20T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.44975826", 
+                "LOCATION": "GRT TERMINAL"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.49254162, 
+                    43.44974603
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "RING AND POST", 
+                "CAPACITY": "2", 
+                "OBJECTID": "48", 
+                "SOURCE": "JOSH JOSEPH", 
+                "BIKERACKSID": "28942", 
+                "SOURCE_DATE": "2012-04-20T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.44974603", 
+                "LOCATION": "GRT TERMINAL"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.4925602, 
+                    43.44975388
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "RING AND POST", 
+                "CAPACITY": "2", 
+                "OBJECTID": "49", 
+                "SOURCE": "JOSH JOSEPH", 
+                "BIKERACKSID": "28943", 
+                "SOURCE_DATE": "2012-04-20T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.44975388", 
+                "LOCATION": "GRT TERMINAL"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.49253209, 
+                    43.449742
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "RING AND POST", 
+                "CAPACITY": "2", 
+                "OBJECTID": "50", 
+                "SOURCE": "JOSH JOSEPH", 
+                "BIKERACKSID": "28944", 
+                "SOURCE_DATE": "2012-04-20T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.449742", 
+                "LOCATION": "GRT TERMINAL"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.49252215, 
+                    43.4497378
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "RING AND POST", 
+                "CAPACITY": "2", 
+                "OBJECTID": "51", 
+                "SOURCE": "JOSH JOSEPH", 
+                "BIKERACKSID": "28945", 
+                "SOURCE_DATE": "2012-04-20T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.4497378", 
+                "LOCATION": "GRT TERMINAL"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.49249283, 
+                    43.44972541
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "RING AND POST", 
+                "CAPACITY": "2", 
+                "OBJECTID": "52", 
+                "SOURCE": "JOSH JOSEPH", 
+                "BIKERACKSID": "28946", 
+                "SOURCE_DATE": "2012-04-20T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.44972541", 
+                "LOCATION": "GRT TERMINAL"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.49255083, 
+                    43.44974992
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "RING AND POST", 
+                "CAPACITY": "2", 
+                "OBJECTID": "53", 
+                "SOURCE": "JOSH JOSEPH", 
+                "BIKERACKSID": "28947", 
+                "SOURCE_DATE": "2012-04-20T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.44974992", 
+                "LOCATION": "GRT TERMINAL"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.49251136, 
+                    43.44973324
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "RING AND POST", 
+                "CAPACITY": "2", 
+                "OBJECTID": "54", 
+                "SOURCE": "JOSH JOSEPH", 
+                "BIKERACKSID": "28948", 
+                "SOURCE_DATE": "2012-04-20T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.44973324", 
+                "LOCATION": "GRT TERMINAL"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.49250183, 
+                    43.44972922
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "RING AND POST", 
+                "CAPACITY": "2", 
+                "OBJECTID": "55", 
+                "SOURCE": "JOSH JOSEPH", 
+                "BIKERACKSID": "28949", 
+                "SOURCE_DATE": "2012-04-20T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.44972922", 
+                "LOCATION": "GRT TERMINAL"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.49248299, 
+                    43.44972125
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "RING AND POST", 
+                "CAPACITY": "2", 
+                "OBJECTID": "56", 
+                "SOURCE": "JOSH JOSEPH", 
+                "BIKERACKSID": "28950", 
+                "SOURCE_DATE": "2012-04-20T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.44972125", 
+                "LOCATION": "GRT TERMINAL"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.49246357, 
+                    43.44971305
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "RING AND POST", 
+                "CAPACITY": "2", 
+                "OBJECTID": "57", 
+                "SOURCE": "JOSH JOSEPH", 
+                "BIKERACKSID": "28951", 
+                "SOURCE_DATE": "2012-04-20T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.44971305", 
+                "LOCATION": "GRT TERMINAL"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.49247342, 
+                    43.44971721
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "RING AND POST", 
+                "CAPACITY": "2", 
+                "OBJECTID": "58", 
+                "SOURCE": "JOSH JOSEPH", 
+                "BIKERACKSID": "28952", 
+                "SOURCE_DATE": "2012-04-20T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.44971721", 
+                "LOCATION": "GRT TERMINAL"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.49245273, 
+                    43.44970847
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "RING AND POST", 
+                "CAPACITY": "2", 
+                "OBJECTID": "59", 
+                "SOURCE": "JOSH JOSEPH", 
+                "BIKERACKSID": "28953", 
+                "SOURCE_DATE": "2012-04-20T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.44970847", 
+                "LOCATION": "GRT TERMINAL"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.49244179, 
+                    43.44970384
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "RING AND POST", 
+                "CAPACITY": "2", 
+                "OBJECTID": "60", 
+                "SOURCE": "JOSH JOSEPH", 
+                "BIKERACKSID": "28954", 
+                "SOURCE_DATE": "2012-04-20T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.44970384", 
+                "LOCATION": "GRT TERMINAL"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.49172808, 
+                    43.45070019
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "RACK", 
+                "CAPACITY": "10+", 
+                "OBJECTID": "61", 
+                "SOURCE": "SEPT 2013 WALKABOUT", 
+                "BIKERACKSID": "28955", 
+                "SOURCE_DATE": "2013-09-15T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.45070019", 
+                "LOCATION": "135 KING ST W (BOBBY OBRIANS)"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.48971928, 
+                    43.4492958
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "RING AND POST", 
+                "CAPACITY": "2", 
+                "OBJECTID": "62", 
+                "SOURCE": "JOSH JOSEPH", 
+                "BIKERACKSID": "28956", 
+                "SOURCE_DATE": "2012-04-20T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.4492958", 
+                "LOCATION": "46 QUEEN ST S"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.48923252, 
+                    43.4494269
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "RACK", 
+                "CAPACITY": "10+", 
+                "OBJECTID": "63", 
+                "SOURCE": "JOSH JOSEPH", 
+                "BIKERACKSID": "28957", 
+                "SOURCE_DATE": "2012-04-20T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.4494269", 
+                "LOCATION": "CIBC"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.49213344, 
+                    43.45261436
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "RACK", 
+                "CAPACITY": "6", 
+                "OBJECTID": "64", 
+                "SOURCE": "JOSH JOSEPH", 
+                "BIKERACKSID": "28958", 
+                "SOURCE_DATE": "2012-04-20T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.45261436", 
+                "LOCATION": "WLU"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.49185942, 
+                    43.45253309
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "RACK", 
+                "CAPACITY": "12", 
+                "OBJECTID": "65", 
+                "SOURCE": "JOSH JOSEPH", 
+                "BIKERACKSID": "28959", 
+                "SOURCE_DATE": "2012-04-20T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.45253309", 
+                "LOCATION": "WLU"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.49058514, 
+                    43.45287121
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "RING AND POST", 
+                "CAPACITY": "2", 
+                "OBJECTID": "66", 
+                "SOURCE": "JOSH JOSEPH", 
+                "BIKERACKSID": "28960", 
+                "SOURCE_DATE": "2012-04-20T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.45287121", 
+                "LOCATION": "ST. LOUIS"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.49057522, 
+                    43.45288331
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "RING AND POST", 
+                "CAPACITY": "2", 
+                "OBJECTID": "67", 
+                "SOURCE": "JOSH JOSEPH", 
+                "BIKERACKSID": "28961", 
+                "SOURCE_DATE": "2012-04-20T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.45288331", 
+                "LOCATION": "ST. LOUIS"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.4904198, 
+                    43.45281615
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "RACK", 
+                "CAPACITY": "10", 
+                "OBJECTID": "68", 
+                "SOURCE": "JOSH JOSEPH", 
+                "BIKERACKSID": "28962", 
+                "SOURCE_DATE": "2012-04-20T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.45281615", 
+                "LOCATION": "ST. LOUIS"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.49170013, 
+                    43.45322104
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "RACK", 
+                "CAPACITY": "12", 
+                "OBJECTID": "69", 
+                "SOURCE": "JOSH JOSEPH", 
+                "BIKERACKSID": "28963", 
+                "SOURCE_DATE": "2012-04-20T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.45322104", 
+                "LOCATION": "WLU"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.49171779, 
+                    43.45319479
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "RACK", 
+                "CAPACITY": "10+", 
+                "OBJECTID": "70", 
+                "SOURCE": "JOSH JOSEPH", 
+                "BIKERACKSID": "28964", 
+                "SOURCE_DATE": "2012-04-20T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.45319479", 
+                "LOCATION": "WLU"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.48808712, 
+                    43.45145189
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "RACK", 
+                "CAPACITY": "10", 
+                "OBJECTID": "71", 
+                "SOURCE": "JOSH JOSEPH", 
+                "BIKERACKSID": "28966", 
+                "SOURCE_DATE": "2012-04-20T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.45145189", 
+                "LOCATION": "COMMERCE CENTRE"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.48805476, 
+                    43.45148602
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "RACK", 
+                "CAPACITY": "14", 
+                "OBJECTID": "72", 
+                "SOURCE": "JOSH JOSEPH", 
+                "BIKERACKSID": "28967", 
+                "SOURCE_DATE": "2012-04-20T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.45148602", 
+                "LOCATION": "COMMERCE CENTRE"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.48758536, 
+                    43.45004475
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "RACK", 
+                "CAPACITY": "14", 
+                "OBJECTID": "73", 
+                "SOURCE": "JOSH JOSEPH", 
+                "BIKERACKSID": "28968", 
+                "SOURCE_DATE": "2012-04-20T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.45004475", 
+                "LOCATION": "22 FREDERICK"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.48797362, 
+                    43.45080435
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "RING AND POST", 
+                "CAPACITY": "2", 
+                "OBJECTID": "74", 
+                "SOURCE": "JOSH JOSEPH", 
+                "BIKERACKSID": "28969", 
+                "SOURCE_DATE": "2012-04-20T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.45080435", 
+                "LOCATION": "STREET LEVEL"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.4877832, 
+                    43.45072575
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "RING AND POST", 
+                "CAPACITY": "2", 
+                "OBJECTID": "75", 
+                "SOURCE": "JOSH JOSEPH", 
+                "BIKERACKSID": "28970", 
+                "SOURCE_DATE": "2012-04-20T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.45072575", 
+                "LOCATION": "STREET LEVEL"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.48782148, 
+                    43.45058567
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "RING AND POST", 
+                "CAPACITY": "2", 
+                "OBJECTID": "76", 
+                "SOURCE": "JOSH JOSEPH", 
+                "BIKERACKSID": "28972", 
+                "SOURCE_DATE": "2012-04-20T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.45058567", 
+                "LOCATION": "STREET LEVEL"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.48563082, 
+                    43.45131653
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "RACK", 
+                "CAPACITY": "10+", 
+                "OBJECTID": "77", 
+                "SOURCE": "JOSH JOSEPH", 
+                "BIKERACKSID": "28975", 
+                "SOURCE_DATE": "2012-04-20T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.45131653", 
+                "LOCATION": "101 FREDERICK"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.48661253, 
+                    43.45185771
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "RING AND POST", 
+                "CAPACITY": "2", 
+                "OBJECTID": "78", 
+                "SOURCE": "JOSH JOSEPH", 
+                "BIKERACKSID": "28976", 
+                "SOURCE_DATE": "2012-04-20T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.45185771", 
+                "LOCATION": "SUPERIOR COURT OF JUSTICE"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.48659842, 
+                    43.451852
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "RING AND POST", 
+                "CAPACITY": "2", 
+                "OBJECTID": "79", 
+                "SOURCE": "JOSH JOSEPH", 
+                "BIKERACKSID": "28977", 
+                "SOURCE_DATE": "2012-04-20T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.451852", 
+                "LOCATION": "SUPERIOR COURT OF JUSTICE"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.48658209, 
+                    43.45282824
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "RACK", 
+                "CAPACITY": "10+", 
+                "OBJECTID": "80", 
+                "SOURCE": "JOSH JOSEPH", 
+                "BIKERACKSID": "28978", 
+                "SOURCE_DATE": "2012-04-20T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.45282824", 
+                "LOCATION": "KPL"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.48620405, 
+                    43.45325598
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "RACK", 
+                "CAPACITY": "10+", 
+                "OBJECTID": "81", 
+                "SOURCE": "JOSH JOSEPH", 
+                "BIKERACKSID": "28980", 
+                "SOURCE_DATE": "2012-04-20T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.45325598", 
+                "LOCATION": "KPL"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.48619418, 
+                    43.45326823
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "RACK", 
+                "CAPACITY": "10+", 
+                "OBJECTID": "82", 
+                "SOURCE": "JOSH JOSEPH", 
+                "BIKERACKSID": "28981", 
+                "SOURCE_DATE": "2012-04-20T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.45326823", 
+                "LOCATION": "KPL"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.48515125, 
+                    43.45378092
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "RACK", 
+                "CAPACITY": "10+", 
+                "OBJECTID": "83", 
+                "SOURCE": "JOSH JOSEPH", 
+                "BIKERACKSID": "28982", 
+                "SOURCE_DATE": "2012-04-20T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.45378092", 
+                "LOCATION": "CIVIC CENTRE PARK"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.48466002, 
+                    43.45263599
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "RACK", 
+                "CAPACITY": "10+", 
+                "OBJECTID": "84", 
+                "SOURCE": "JOSH JOSEPH", 
+                "BIKERACKSID": "28983", 
+                "SOURCE_DATE": "2012-04-20T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.45263599", 
+                "LOCATION": "WRPS"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.48463053, 
+                    43.45259358
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "RING AND POST", 
+                "CAPACITY": "2", 
+                "OBJECTID": "85", 
+                "SOURCE": "JOSH JOSEPH", 
+                "BIKERACKSID": "28984", 
+                "SOURCE_DATE": "2012-04-20T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.45259358", 
+                "LOCATION": "WRPS"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.48461273, 
+                    43.45257807
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "RING AND POST", 
+                "CAPACITY": "2", 
+                "OBJECTID": "86", 
+                "SOURCE": "JOSH JOSEPH", 
+                "BIKERACKSID": "28985", 
+                "SOURCE_DATE": "2012-04-20T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.45257807", 
+                "LOCATION": "WRPS"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.4870101, 
+                    43.44902228
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "RACK", 
+                "CAPACITY": "10+", 
+                "OBJECTID": "87", 
+                "SOURCE": "SEPT 2013 WALKABOUT", 
+                "BIKERACKSID": "28986", 
+                "SOURCE_DATE": "2013-09-15T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.44902228", 
+                "LOCATION": "MARKET SQUARE"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.48406897, 
+                    43.44797328
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "RING AND POST", 
+                "CAPACITY": "2", 
+                "OBJECTID": "88", 
+                "SOURCE": "AUG 2014 WALKABOUT", 
+                "BIKERACKSID": "28988", 
+                "SOURCE_DATE": "2014-08-20T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.44797328", 
+                "LOCATION": "KITCHENER MARKET"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.4835338, 
+                    43.44775269
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "RACK", 
+                "CAPACITY": "10+", 
+                "OBJECTID": "89", 
+                "SOURCE": "JOSH JOSEPH", 
+                "BIKERACKSID": "28991", 
+                "SOURCE_DATE": "2012-04-20T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.44775269", 
+                "LOCATION": "KITCHENER MARKET"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.48324733, 
+                    43.44767587
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "RACK", 
+                "CAPACITY": "8+", 
+                "OBJECTID": "90", 
+                "SOURCE": "JOSH JOSEPH", 
+                "BIKERACKSID": "28992", 
+                "SOURCE_DATE": "2012-04-20T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.44767587", 
+                "LOCATION": "KITCHENER MARKET"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.48653303, 
+                    43.45005577
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "RACK", 
+                "CAPACITY": "5", 
+                "OBJECTID": "91", 
+                "SOURCE": "JOSH JOSEPH", 
+                "BIKERACKSID": "29047", 
+                "SOURCE_DATE": "2012-04-20T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.45005577", 
+                "LOCATION": "DUKE/FREDERICK PARKING GARAGE"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.49204863, 
+                    43.45177154
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "SECURE CAGE", 
+                "CAPACITY": "40+", 
+                "OBJECTID": "92", 
+                "SOURCE": "", 
+                "BIKERACKSID": "29167", 
+                "SOURCE_DATE": "", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.45177154", 
+                "LOCATION": "KITCHENER CITY HALL"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.48903436, 
+                    43.44889222
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "SECURE CAGE", 
+                "CAPACITY": "40+", 
+                "OBJECTID": "93", 
+                "SOURCE": "", 
+                "BIKERACKSID": "29168", 
+                "SOURCE_DATE": "", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.44889222", 
+                "LOCATION": "CHARLES/BENTON PARKING GARAGE"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.48655229, 
+                    43.4524792
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "SECURE CAGE", 
+                "CAPACITY": "40+", 
+                "OBJECTID": "94", 
+                "SOURCE": "JOSH JOSEPH", 
+                "BIKERACKSID": "34568", 
+                "SOURCE_DATE": "2013-05-02T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.4524792", 
+                "LOCATION": "KPL - MAIN BRANCH"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.51806269, 
+                    43.45374552
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "RING AND POST", 
+                "CAPACITY": "2", 
+                "OBJECTID": "95", 
+                "SOURCE": "2012 ORTHO", 
+                "BIKERACKSID": "34848", 
+                "SOURCE_DATE": "2012-04-15T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.45374552", 
+                "LOCATION": "BELMONT VILLAGE"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.51806992, 
+                    43.45375719
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "RING AND POST", 
+                "CAPACITY": "2", 
+                "OBJECTID": "96", 
+                "SOURCE": "2012 ORTHO", 
+                "BIKERACKSID": "34849", 
+                "SOURCE_DATE": "2012-04-15T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.45375719", 
+                "LOCATION": "BELMONT VILLAGE"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.5176527, 
+                    43.45251349
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "RING AND POST", 
+                "CAPACITY": "2", 
+                "OBJECTID": "97", 
+                "SOURCE": "2012 ORTHO", 
+                "BIKERACKSID": "34850", 
+                "SOURCE_DATE": "2012-04-15T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.45251349", 
+                "LOCATION": "BELMONT VILLAGE"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.51767235, 
+                    43.45262705
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "RING AND POST", 
+                "CAPACITY": "2", 
+                "OBJECTID": "98", 
+                "SOURCE": "2012 ORTHO", 
+                "BIKERACKSID": "34851", 
+                "SOURCE_DATE": "2012-04-15T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.45262705", 
+                "LOCATION": "BELMONT VILLAGE"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.51771244, 
+                    43.45268592
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "RING AND POST", 
+                "CAPACITY": "2", 
+                "OBJECTID": "99", 
+                "SOURCE": "2012 ORTHO", 
+                "BIKERACKSID": "34852", 
+                "SOURCE_DATE": "2012-04-15T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.45268592", 
+                "LOCATION": "BELMONT VILLAGE"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.51809323, 
+                    43.4532605
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "RING AND POST", 
+                "CAPACITY": "2", 
+                "OBJECTID": "100", 
+                "SOURCE": "2012 ORTHO", 
+                "BIKERACKSID": "34853", 
+                "SOURCE_DATE": "2012-04-15T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.4532605", 
+                "LOCATION": "BELMONT VILLAGE"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.5180538, 
+                    43.45320173
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "RING AND POST", 
+                "CAPACITY": "2", 
+                "OBJECTID": "101", 
+                "SOURCE": "2012 ORTHO", 
+                "BIKERACKSID": "34854", 
+                "SOURCE_DATE": "2012-04-15T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.45320173", 
+                "LOCATION": "BELMONT VILLAGE"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.51820048, 
+                    43.45342677
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "RING AND POST", 
+                "CAPACITY": "2", 
+                "OBJECTID": "102", 
+                "SOURCE": "2012 ORTHO", 
+                "BIKERACKSID": "34855", 
+                "SOURCE_DATE": "2012-04-15T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.45342677", 
+                "LOCATION": "BELMONT VILLAGE"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.51837619, 
+                    43.45378582
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "RING AND POST", 
+                "CAPACITY": "2", 
+                "OBJECTID": "103", 
+                "SOURCE": "2012 ORTHO", 
+                "BIKERACKSID": "34856", 
+                "SOURCE_DATE": "2012-04-15T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.45378582", 
+                "LOCATION": "BELMONT VILLAGE"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.51839193, 
+                    43.45378017
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "RING AND POST", 
+                "CAPACITY": "2", 
+                "OBJECTID": "104", 
+                "SOURCE": "2012 ORTHO", 
+                "BIKERACKSID": "34857", 
+                "SOURCE_DATE": "2012-04-15T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.45378017", 
+                "LOCATION": "BELMONT VILLAGE"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.49258035, 
+                    43.45120248
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "FIX-IT STAND", 
+                "CAPACITY": "", 
+                "OBJECTID": "105", 
+                "SOURCE": "MAY 2014 WALKABOUT", 
+                "BIKERACKSID": "44171", 
+                "SOURCE_DATE": "2014-04-12T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.45120248", 
+                "LOCATION": "CITY HALL"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.48403536, 
+                    43.44807265
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "RACK", 
+                "CAPACITY": "10+", 
+                "OBJECTID": "106", 
+                "SOURCE": "AUG 2014 WALKABOUT", 
+                "BIKERACKSID": "49107", 
+                "SOURCE_DATE": "2014-08-20T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.44807265", 
+                "LOCATION": "KITCHENER MARKET"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.48971623, 
+                    43.44928549
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "RING AND POST", 
+                "CAPACITY": "2", 
+                "OBJECTID": "107", 
+                "SOURCE": "JOSH JOSEPH", 
+                "BIKERACKSID": "49109", 
+                "SOURCE_DATE": "2012-04-20T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.44928549", 
+                "LOCATION": "46 QUEEN ST S"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.48401126, 
+                    43.44806111
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "RACK", 
+                "CAPACITY": "10+", 
+                "OBJECTID": "108", 
+                "SOURCE": "AUG 2014 WALKABOUT", 
+                "BIKERACKSID": "49106", 
+                "SOURCE_DATE": "2014-08-20T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.44806111", 
+                "LOCATION": "KITCHENER MARKET"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.48406143, 
+                    43.4479817
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "RING AND POST", 
+                "CAPACITY": "2", 
+                "OBJECTID": "109", 
+                "SOURCE": "AUG 2014 WALKABOUT", 
+                "BIKERACKSID": "49108", 
+                "SOURCE_DATE": "2014-08-20T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.4479817", 
+                "LOCATION": "KITCHENER MARKET"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.49602767, 
+                    43.44718835
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "RACK", 
+                "CAPACITY": "6", 
+                "OBJECTID": "110", 
+                "SOURCE": "", 
+                "BIKERACKSID": "49528", 
+                "SOURCE_DATE": "", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.44718835", 
+                "LOCATION": "THE BOATHOUSE"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.49937359, 
+                    43.44533499
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "RING AND POST", 
+                "CAPACITY": "2", 
+                "OBJECTID": "111", 
+                "SOURCE": "", 
+                "BIKERACKSID": "49538", 
+                "SOURCE_DATE": "", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.44533499", 
+                "LOCATION": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.49579502, 
+                    43.44350612
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "FIX-IT STAND", 
+                "CAPACITY": "", 
+                "OBJECTID": "112", 
+                "SOURCE": "MAY 2014 WALKABOUT", 
+                "BIKERACKSID": "44194", 
+                "SOURCE_DATE": "2014-04-12T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.44350612", 
+                "LOCATION": "560 QUEEN ST S (IRON HORSE TRAIL)"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.48414942, 
+                    43.44808482
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "FIX-IT STAND", 
+                "CAPACITY": "", 
+                "OBJECTID": "113", 
+                "SOURCE": "JOSH JOSEPH", 
+                "BIKERACKSID": "44268", 
+                "SOURCE_DATE": "2014-05-26T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.44808482", 
+                "LOCATION": "KTCHENER MARKET (EBY ST SIDE)"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.48405416, 
+                    43.44799072
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "RING AND POST", 
+                "CAPACITY": "2", 
+                "OBJECTID": "114", 
+                "SOURCE": "AUG 2014 WALKABOUT", 
+                "BIKERACKSID": "28989", 
+                "SOURCE_DATE": "2014-08-20T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.44799072", 
+                "LOCATION": "KITCHENER MARKET"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.49304657, 
+                    43.4511756
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "DERO RACK", 
+                "CAPACITY": "2", 
+                "OBJECTID": "115", 
+                "SOURCE": "MAY 2014 WALKABOUT", 
+                "BIKERACKSID": "44170", 
+                "SOURCE_DATE": "2014-04-12T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.4511756", 
+                "LOCATION": "213 KING ST W"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.4878771, 
+                    43.4493419
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "DERO RACK", 
+                "CAPACITY": "2", 
+                "OBJECTID": "116", 
+                "SOURCE": "SEPT 2013 WALKABOUT", 
+                "BIKERACKSID": "34786", 
+                "SOURCE_DATE": "2013-09-15T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.4493419", 
+                "LOCATION": "KING ST E (CRABBY JOES)"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.48820878, 
+                    43.44863664
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "DERO RACK", 
+                "CAPACITY": "2", 
+                "OBJECTID": "117", 
+                "SOURCE": "MAY 2014 WALKABOUT", 
+                "BIKERACKSID": "44184", 
+                "SOURCE_DATE": "2014-04-12T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.44863664", 
+                "LOCATION": "FROGURT PLACE"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.49714992, 
+                    43.45132097
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "DERO RACK", 
+                "CAPACITY": "2", 
+                "OBJECTID": "118", 
+                "SOURCE": "JOSH JOSEPH 2013", 
+                "BIKERACKSID": "34770", 
+                "SOURCE_DATE": "2013-05-22T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.45132097", 
+                "LOCATION": "CHARLES ST W (DIRECT OFFICE EQUIPMENT)"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.49483889, 
+                    43.45175749
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "DERO RACK", 
+                "CAPACITY": "2", 
+                "OBJECTID": "119", 
+                "SOURCE": "MAY 2014 WALKABOUT", 
+                "BIKERACKSID": "44148", 
+                "SOURCE_DATE": "2014-04-12T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.45175749", 
+                "LOCATION": "305 KING ST W"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.48592226, 
+                    43.44849874
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "DERO RACK", 
+                "CAPACITY": "2", 
+                "OBJECTID": "120", 
+                "SOURCE": "MAY 2014 WALKABOUT", 
+                "BIKERACKSID": "44190", 
+                "SOURCE_DATE": "2014-04-12T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.44849874", 
+                "LOCATION": "200 KING ST E (THE HIVE)"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.49355562, 
+                    43.45145494
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "DERO RACK", 
+                "CAPACITY": "2", 
+                "OBJECTID": "121", 
+                "SOURCE": "MAY 2014 WALKABOUT", 
+                "BIKERACKSID": "44152", 
+                "SOURCE_DATE": "2014-04-12T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.45145494", 
+                "LOCATION": "SHOPPERS DRUG MART"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.49285938, 
+                    43.45037886
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "DERO RACK", 
+                "CAPACITY": "2", 
+                "OBJECTID": "122", 
+                "SOURCE": "SEPT 2013 WALKABOUT", 
+                "BIKERACKSID": "34778", 
+                "SOURCE_DATE": "2013-09-15T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.45037886", 
+                "LOCATION": "GAUKEL ST (ACROSS FROM KAVA BEAN COMMONS)"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.4944166, 
+                    43.4518527
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "DERO RACK", 
+                "CAPACITY": "2", 
+                "OBJECTID": "123", 
+                "SOURCE": "MAY 2014 WALKABOUT", 
+                "BIKERACKSID": "44180", 
+                "SOURCE_DATE": "2014-04-12T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.4518527", 
+                "LOCATION": "EATON LOFTS"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.49354968, 
+                    43.45146385
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "DERO RACK", 
+                "CAPACITY": "2", 
+                "OBJECTID": "124", 
+                "SOURCE": "MAY 2014 WALKABOUT", 
+                "BIKERACKSID": "44151", 
+                "SOURCE_DATE": "2014-04-12T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.45146385", 
+                "LOCATION": "SHOPPERS DRUG MART"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.48608745, 
+                    43.4486506
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "DERO RACK", 
+                "CAPACITY": "2", 
+                "OBJECTID": "125", 
+                "SOURCE": "MAY 2014 WALKABOUT", 
+                "BIKERACKSID": "44189", 
+                "SOURCE_DATE": "2014-04-12T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.4486506", 
+                "LOCATION": "100 KING ST E (THE RECORD)"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.48692343, 
+                    43.44892095
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "DERO RACK", 
+                "CAPACITY": "2", 
+                "OBJECTID": "126", 
+                "SOURCE": "MAY 2014 WALKABOUT", 
+                "BIKERACKSID": "44186", 
+                "SOURCE_DATE": "2014-04-12T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.44892095", 
+                "LOCATION": "100 KING ST E (MARKET SQUARE)"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.49470944, 
+                    43.45182195
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "DERO RACK", 
+                "CAPACITY": "2", 
+                "OBJECTID": "127", 
+                "SOURCE": "MAY 2014 WALKABOUT", 
+                "BIKERACKSID": "44149", 
+                "SOURCE_DATE": "2014-05-12T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.45182195", 
+                "LOCATION": "310 KING ST W"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.48925639, 
+                    43.44991965
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "DERO RACK", 
+                "CAPACITY": "2", 
+                "OBJECTID": "128", 
+                "SOURCE": "SEPT 2013 WALKABOUT", 
+                "BIKERACKSID": "34783", 
+                "SOURCE_DATE": "2013-09-15T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.44991965", 
+                "LOCATION": "KING ST W (BMO)"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.4960976, 
+                    43.4521558
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "DERO RACK", 
+                "CAPACITY": "2", 
+                "OBJECTID": "129", 
+                "SOURCE": "SEPT 2013 WALKABOUT", 
+                "BIKERACKSID": "34829", 
+                "SOURCE_DATE": "2013-09-15T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.4521558", 
+                "LOCATION": "KING ST W (TD BANK)"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.48803789, 
+                    43.44927727
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "DERO RACK", 
+                "CAPACITY": "2", 
+                "OBJECTID": "130", 
+                "SOURCE": "MAY 2014 WALKABOUT", 
+                "BIKERACKSID": "44183", 
+                "SOURCE_DATE": "2014-04-12T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.44927727", 
+                "LOCATION": "67 KING ST E"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.48853337, 
+                    43.44948548
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "DERO RACK", 
+                "CAPACITY": "2", 
+                "OBJECTID": "131", 
+                "SOURCE": "MAY 2014 WALKABOUT", 
+                "BIKERACKSID": "44182", 
+                "SOURCE_DATE": "2014-04-12T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.44948548", 
+                "LOCATION": "BIA OFFICE"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.49720535, 
+                    43.45134096
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "DERO RACK", 
+                "CAPACITY": "2", 
+                "OBJECTID": "132", 
+                "SOURCE": "JOSH JOSEPH 2013", 
+                "BIKERACKSID": "34769", 
+                "SOURCE_DATE": "2013-05-22T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.45134096", 
+                "LOCATION": "CHARLES ST W (PHARMASAVE)"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.48507493, 
+                    43.44814647
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "DERO RACK", 
+                "CAPACITY": "2", 
+                "OBJECTID": "133", 
+                "SOURCE": "MAY 2014 WALKABOUT", 
+                "BIKERACKSID": "44191", 
+                "SOURCE_DATE": "2014-04-12T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.44814647", 
+                "LOCATION": "236 KING ST E (NEW CITY SUPERMARKET)"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.49366925, 
+                    43.45138996
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "DERO RACK", 
+                "CAPACITY": "2", 
+                "OBJECTID": "134", 
+                "SOURCE": "SEPT 2013 WALKABOUT", 
+                "BIKERACKSID": "34773", 
+                "SOURCE_DATE": "2013-09-15T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.45138996", 
+                "LOCATION": "KING ST W (MANULIFE)"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.48970031, 
+                    43.45009548
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "DERO RACK", 
+                "CAPACITY": "2", 
+                "OBJECTID": "135", 
+                "SOURCE": "MAY 2014 WALKABOUT", 
+                "BIKERACKSID": "44177", 
+                "SOURCE_DATE": "2014-04-12T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.45009548", 
+                "LOCATION": "CONRAD CENTRE"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.49015745, 
+                    43.45054952
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "DERO RACK", 
+                "CAPACITY": "2", 
+                "OBJECTID": "136", 
+                "SOURCE": "JOSH JOSEPH 2013", 
+                "BIKERACKSID": "34782", 
+                "SOURCE_DATE": "2013-05-22T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.45054952", 
+                "LOCATION": "ONTARIO ST N (SCOTIABANK)"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.49262834, 
+                    43.45121553
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "DERO RACK", 
+                "CAPACITY": "2", 
+                "OBJECTID": "137", 
+                "SOURCE": "SEPT 2013 WALKABOUT", 
+                "BIKERACKSID": "34777", 
+                "SOURCE_DATE": "2013-09-15T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.45121553", 
+                "LOCATION": "KING ST W (CITY HALL)"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.48882193, 
+                    43.44961317
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "DERO RACK", 
+                "CAPACITY": "2", 
+                "OBJECTID": "138", 
+                "SOURCE": "MAY 2014 WALKABOUT", 
+                "BIKERACKSID": "44181", 
+                "SOURCE_DATE": "2014-04-12T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.44961317", 
+                "LOCATION": "20/20 VISION"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.49293134, 
+                    43.45113933
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "RACK", 
+                "CAPACITY": "4", 
+                "OBJECTID": "139", 
+                "SOURCE": "AUG 2014 WALKABOUT", 
+                "BIKERACKSID": "48653", 
+                "SOURCE_DATE": "2014-08-20T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.45113933", 
+                "LOCATION": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.48423255, 
+                    43.44822843
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "DERO RACK", 
+                "CAPACITY": "2", 
+                "OBJECTID": "140", 
+                "SOURCE": "MAY 2014 WALKABOUT", 
+                "BIKERACKSID": "34788", 
+                "SOURCE_DATE": "2014-04-12T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.44822843", 
+                "LOCATION": "YETI CAFE"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.49493998, 
+                    43.45189951
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "DERO RACK", 
+                "CAPACITY": "2", 
+                "OBJECTID": "141", 
+                "SOURCE": "MAY 2014 WALKABOUT", 
+                "BIKERACKSID": "44179", 
+                "SOURCE_DATE": "2014-04-12T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.45189951", 
+                "LOCATION": "DALLAS"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.49181505, 
+                    43.44974577
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "DERO RACK", 
+                "CAPACITY": "2", 
+                "OBJECTID": "142", 
+                "SOURCE": "JOSH JOSEPH 2013", 
+                "BIKERACKSID": "34779", 
+                "SOURCE_DATE": "2013-05-22T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.44974577", 
+                "LOCATION": "CHARLES ST W (CAFE PYRUS)"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.48457622, 
+                    43.44793647
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "DERO RACK", 
+                "CAPACITY": "2", 
+                "OBJECTID": "143", 
+                "SOURCE": "MAY 2014 WALKABOUT", 
+                "BIKERACKSID": "34791", 
+                "SOURCE_DATE": "2014-04-12T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.44793647", 
+                "LOCATION": "KING ST E (MORNING GLORY CAFE)"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -80.49407818, 
+                    43.44918922
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "CATEGORY": "DERO RACK", 
+                "CAPACITY": "2", 
+                "OBJECTID": "144", 
+                "SOURCE": "JOSH JOSEPH 2013", 
+                "BIKERACKSID": "34790", 
+                "SOURCE_DATE": "2013-05-22T00:00:00.000Z", 
+                "OWNERSHIP": "KITCHENER", 
+                "Y": "43.44918922", 
+                "LOCATION": "JOSEPH ST (TREEHAUS)"
+            }
+        }
+    ]
+}

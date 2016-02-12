@@ -1,0 +1,33 @@
+html {
+    background-image: url("../imgs/viewer-background.jpg");
+    background-size: cover;
+}
+
+html, body {
+    height: 100%;
+    width: 100%;
+    max-height: 100%;
+}
+
+.viewer-container {
+        padding-top: 50px;
+}
+
+#map {
+    height: 500px;
+}
+
+.url-holder {
+        padding-bottom: 30px;
+}
+
+.title {
+    text-align: center;
+        padding-top: 25px;
+        margin-top: 0px;
+
+}
+
+.submit-button {
+    width: 100%;
+}

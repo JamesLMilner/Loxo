@@ -1,0 +1,19 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.087461, 
+                    37.422069
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "name": "My office", 
+                "description": "This is the location of my office."
+            }
+        }
+    ]
+}

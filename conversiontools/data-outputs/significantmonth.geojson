@@ -1,0 +1,369 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    "-70.6323", 
+                    "-24.8174"
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "rms": "1.49", 
+                "updated": "2015-11-28T19:14:13.955Z", 
+                "type": "earthquake", 
+                "magType": "mww", 
+                "gap": "45", 
+                "depth": "35", 
+                "dmin": "0.282", 
+                "mag": "6.2", 
+                "time": "2015-11-27T21:00:22.680Z", 
+                "latitude": "-24.8174", 
+                "place": "66km NNW of Taltal, Chile", 
+                "net": "us", 
+                "nst": "", 
+                "id": "us100041t7"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    "-71.288", 
+                    "-9.1912"
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "rms": "1.19", 
+                "updated": "2015-11-27T15:46:32.000Z", 
+                "type": "earthquake", 
+                "magType": "mwb", 
+                "gap": "19", 
+                "depth": "599.35", 
+                "dmin": "2.018", 
+                "mag": "6.7", 
+                "time": "2015-11-26T05:45:18.300Z", 
+                "latitude": "-9.1912", 
+                "place": "127km SSW of Tarauaca, Brazil", 
+                "net": "us", 
+                "nst": "", 
+                "id": "us100041f1"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    "-71.0226", 
+                    "-10.0475"
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "rms": "0.99", 
+                "updated": "2015-11-26T00:49:02.039Z", 
+                "type": "earthquake", 
+                "magType": "mww", 
+                "gap": "15", 
+                "depth": "611.71", 
+                "dmin": "2.84", 
+                "mag": "7.6", 
+                "time": "2015-11-24T22:50:53.770Z", 
+                "latitude": "-10.0475", 
+                "place": "210km S of Tarauaca, Brazil", 
+                "net": "us", 
+                "nst": "", 
+                "id": "us100040x6"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    "-70.9038", 
+                    "-10.5484"
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "rms": "0.93", 
+                "updated": "2015-11-28T01:16:41.370Z", 
+                "type": "earthquake", 
+                "magType": "mww", 
+                "gap": "16", 
+                "depth": "600.63", 
+                "dmin": "3.317", 
+                "mag": "7.6", 
+                "time": "2015-11-24T22:45:38.060Z", 
+                "latitude": "-10.5484", 
+                "place": "169km WNW of Iberia, Peru", 
+                "net": "us", 
+                "nst": "", 
+                "id": "us100040ww"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    "-98.4612", 
+                    "36.661"
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "rms": "0.18", 
+                "updated": "2015-11-25T20:20:56.120Z", 
+                "type": "earthquake", 
+                "magType": "mwr", 
+                "gap": "98", 
+                "depth": "6.23", 
+                "dmin": "0.246", 
+                "mag": "4.7", 
+                "time": "2015-11-19T07:42:12.760Z", 
+                "latitude": "36.661", 
+                "place": "13km SW of Cherokee, Oklahoma", 
+                "net": "us", 
+                "nst": "", 
+                "id": "us10003zgz"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    "158.4102", 
+                    "-8.9288"
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "rms": "0.82", 
+                "updated": "2015-11-19T03:41:04.877Z", 
+                "type": "earthquake", 
+                "magType": "mww", 
+                "gap": "23", 
+                "depth": "13.39", 
+                "dmin": "1.6", 
+                "mag": "7", 
+                "time": "2015-11-18T18:31:04.600Z", 
+                "latitude": "-8.9288", 
+                "place": "118km SW of Dadali, Solomon Islands", 
+                "net": "us", 
+                "nst": "", 
+                "id": "us10003zcp"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    "20.5519", 
+                    "38.7548"
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "rms": "1", 
+                "updated": "2015-11-20T07:21:11.369Z", 
+                "type": "earthquake", 
+                "magType": "mwb", 
+                "gap": "39", 
+                "depth": "11.07", 
+                "dmin": "1.417", 
+                "mag": "6.5", 
+                "time": "2015-11-17T07:10:08.740Z", 
+                "latitude": "38.7548", 
+                "place": "14km WNW of Nidri, Greece", 
+                "net": "us", 
+                "nst": "", 
+                "id": "us10003ywp"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    "128.8768", 
+                    "30.9915"
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "rms": "1.13", 
+                "updated": "2015-11-14T16:52:21.206Z", 
+                "type": "earthquake", 
+                "magType": "mww", 
+                "gap": "17", 
+                "depth": "12", 
+                "dmin": "1.445", 
+                "mag": "6.7", 
+                "time": "2015-11-13T20:51:30.990Z", 
+                "latitude": "30.9915", 
+                "place": "140km WSW of Makurazaki, Japan", 
+                "net": "us", 
+                "nst": "", 
+                "id": "us10003y71"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    "-72.1288", 
+                    "-29.4726"
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "rms": "1.5", 
+                "updated": "2015-11-19T01:58:43.687Z", 
+                "type": "earthquake", 
+                "magType": "mww", 
+                "gap": "28", 
+                "depth": "10", 
+                "dmin": "0.893", 
+                "mag": "6.9", 
+                "time": "2015-11-11T02:46:19.900Z", 
+                "latitude": "-29.4726", 
+                "place": "92km NW of Coquimbo, Chile", 
+                "net": "us", 
+                "nst": "", 
+                "id": "us10003x9g"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    "-72.0354", 
+                    "-29.4834"
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "rms": "1.15", 
+                "updated": "2015-11-19T01:22:58.582Z", 
+                "type": "earthquake", 
+                "magType": "mww", 
+                "gap": "27", 
+                "depth": "12", 
+                "dmin": "0.817", 
+                "mag": "6.9", 
+                "time": "2015-11-11T01:54:38.530Z", 
+                "latitude": "-29.4834", 
+                "place": "84km NW of Coquimbo, Chile", 
+                "net": "us", 
+                "nst": "", 
+                "id": "us10003x8t"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    "94.6609", 
+                    "6.8456"
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "rms": "1.23", 
+                "updated": "2015-11-09T04:37:22.000Z", 
+                "type": "earthquake", 
+                "magType": "mwb", 
+                "gap": "31", 
+                "depth": "10", 
+                "dmin": "2.783", 
+                "mag": "6.4", 
+                "time": "2015-11-08T16:47:02.140Z", 
+                "latitude": "6.8456", 
+                "place": "128km NW of Sabang, Indonesia", 
+                "net": "us", 
+                "nst": "", 
+                "id": "us10003vry"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    "-71.5456", 
+                    "-30.9048"
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "rms": "1.32", 
+                "updated": "2015-11-12T01:01:15.542Z", 
+                "type": "earthquake", 
+                "magType": "mww", 
+                "gap": "26", 
+                "depth": "37.56", 
+                "dmin": "0.242", 
+                "mag": "6.8", 
+                "time": "2015-11-07T07:31:43.150Z", 
+                "latitude": "-30.9048", 
+                "place": "47km SW of Ovalle, Chile", 
+                "net": "us", 
+                "nst": "", 
+                "id": "us10003vgt"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    "124.8991", 
+                    "-8.3531"
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "rms": "1.34", 
+                "updated": "2015-11-04T21:54:36.568Z", 
+                "type": "earthquake", 
+                "magType": "mwp", 
+                "gap": "21", 
+                "depth": "14.33", 
+                "dmin": "1.526", 
+                "mag": "6.3", 
+                "time": "2015-11-04T03:44:15.330Z", 
+                "latitude": "-8.3531", 
+                "place": "77km WNW of Dili, East Timor", 
+                "net": "us", 
+                "nst": "", 
+                "id": "us200041ty"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    "-112.1024", 
+                    "34.1669"
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "rms": "0.5", 
+                "updated": "2015-11-15T16:01:56.917Z", 
+                "type": "earthquake", 
+                "magType": "mb", 
+                "gap": "71", 
+                "depth": "6.5", 
+                "dmin": "0.602", 
+                "mag": "4.1", 
+                "time": "2015-11-02T06:29:06.120Z", 
+                "latitude": "34.1669", 
+                "place": "11km NNE of Black Canyon City, Arizona", 
+                "net": "us", 
+                "nst": "", 
+                "id": "us2000419p"
+            }
+        }
+    ]
+}

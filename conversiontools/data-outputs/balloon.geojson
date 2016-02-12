@@ -1,0 +1,19 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -121.22, 
+                    37.44
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "name": "Image in balloon", 
+                "description": "\n        \n        Here is an image:\n        <img src=\"images/googleearth.gif\"/>\n        \n      "
+            }
+        }
+    ]
+}
