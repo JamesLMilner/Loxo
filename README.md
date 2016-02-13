@@ -4,7 +4,7 @@
 Loxo is a queryable GeoJSON API. Loxo digest various geographic formats (shapefiles, KML, CSV, geojson) and aims to turn them into a nice set of
 intuitive endpoints that make dealing with geographic data easy.
 
-## What is GeoJSON
+## What is GeoJSON?
 GeoJSON is a way of encoding geographic information. It uses the JSON (JavaScript Object Notation) and therefor works out of the box with JavaScript.
 
 * [Specification](http://geojson.org/geojson-spec.html)
