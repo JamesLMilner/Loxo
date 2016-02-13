@@ -43,6 +43,7 @@ I know, I know, I'll get something up ASAP.
 
 ## What's on the roadmap?
 
+    * requirements.txt
     * Docker
     * Docs
     * Authentication
