@@ -6,6 +6,13 @@ intuitive endpoints that make dealing with geographic data easy.
 
 !["A demo of the API"](/docs/demo.gif "A demo gif")
 
+Loxo supports the following file formats for ingestion:
+
+*Shapefile
+*GeoJSON
+*KML
+*CSV (Points)
+
 ## What is GeoJSON?
 GeoJSON is a way of encoding geographic information. It uses the JSON (JavaScript Object Notation) and therefor works out of the box with JavaScript.
 
