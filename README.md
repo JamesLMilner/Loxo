@@ -25,6 +25,10 @@ The points within the donut expressed (point, exclusion zone, donut radius):
 
     loxo/cupcakes/collections/cupcakes?withinDonut=-122.65335738658904,45.512083676585156,100,5000
 
+The points within a given polygon:
+
+/loxo/cupcakes/collections/cupcakes?withinPolygon= [ [ -122.64759063720702, 45.56526572302386 ], [ -122.662353515625, 45.53833906419679 ], [ -122.607421875, 45.50261730748197 ], [ -122.60175704956053, 45.5670683866382 ], [ -122.6436424255371, 45.576200993222955 ], [ -122.64759063720702, 45.56526572302386 ] ]
+
 The closest distance between any two points:
 
     loxo/cupcakes/collections/cupcakes/stats/minDistance
