@@ -4,6 +4,8 @@
 Loxo is a queryable GeoJSON API. Loxo digest various geographic formats (shapefiles, KML, CSV, geojson) and aims to turn them into a nice set of
 intuitive endpoints that make dealing with geographic data easy.
 
+!["A demo of the API"](/docs/demo.gif "A demo gif")
+
 ## What is GeoJSON?
 GeoJSON is a way of encoding geographic information. It uses the JSON (JavaScript Object Notation) and therefor works out of the box with JavaScript.
 
@@ -38,7 +40,7 @@ The stats endpoint also supports the following geo statistical operations:
     * Moran's I (Spatial Autocorrelation)
     * Geary's C (Spatial Autocorrelation)
     * Inverse Distance Weighting (IDW Interpolation)
-    
+
 
 ## Caveats
 Loxo currently only handles geometries in the WGS84 coordinate system (as this is what GeoJSON and MongoDB use). Some end points haven't been fully tested with different geometry types so may fail.
