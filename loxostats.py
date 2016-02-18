@@ -237,7 +237,7 @@ def morans_i(points, attribute):
         n_over_weights = n / weights_sum
         print numerator, denominator
         I = n_over_weights * (numerator / denominator)
-        return I
+        return '{ "morans_i" : "' + str(I) + '"}'
 
     except TypeError:
         return "Attribute is none numerical"
@@ -280,8 +280,7 @@ def gearys_c(points, attribute):
         numerator = (n - 1) * numerator
         denominator = 2 * weights_sum * denominator
         C = numerator / denominator
-
-        return C
+        return '{ "gearys_c" : "' + str() + '"}'
 
     except TypeError:
         return "Attribute is none numerical"
@@ -307,7 +306,7 @@ def idw(points, variable, interp_point):
 
     v = numerator / denominator
 
-    return v
+    return '{ "idw_interpolated_point" : "' + str(v) + '"}'
 
 def is_float(value):
   try:
