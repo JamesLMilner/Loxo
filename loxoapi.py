@@ -9,8 +9,6 @@ from bson.son import SON
 import json
 import os
 
-
-
 #Flask Setup
 
 UPLOAD_FOLDER = os.getcwd() + '\uploads'
