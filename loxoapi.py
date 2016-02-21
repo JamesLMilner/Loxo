@@ -11,11 +11,15 @@ import os
 
 #Flask Setup
 
-UPLOAD_FOLDER = os.getcwd() + '\uploads'
+UPLOAD_FOLDER = 'uploads'
 ALLOWED_EXTENSIONS = set(['kml', 'zip', 'geojson', 'csv', "png"])
 
 app = Flask(__name__)
-client = MongoClient('localhost', 27017)
+
+mdb_port = 27017
+host = os.environ.get('LOXO_DB_1_PORT_27017_TCP_ADDR', 'localhost')
+
+client = MongoClient(host, mdb_port)
 app.register_blueprint(stats_api, url_prefix='/loxo/<database>/collections/<dataset>/stats')
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 
@@ -48,10 +52,10 @@ def upload_file():
             endpoint_name = os.path.splitext(filename)[0]
             database = request.form.get("database")
             if not database:
-                #print request.form["database"]
+                print request.form["database"]
                 return "Something went wrong with the database"
             else:
-                handle_file(database, file_location, endpoint_name)
+                handle_file(database, file_location, endpoint_name, host)
 
             return redirect('/loxo/' + database + '/collections/' + endpoint_name)
 
@@ -173,4 +177,8 @@ def page_not_found(error):
     return 'This page does not exist', 404
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    if host == 'localhost':
+        app.run(host='localhost')
+    else:
+        # DOCKER
+        app.run(host='0.0.0.0')

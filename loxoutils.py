@@ -31,12 +31,12 @@ def allowed_file(filename, ALLOWED_EXTENSIONS):
 def get_file_type(filename):
     return filename.rsplit('.', 1)[1]
 
-def handle_file(db, filename, endpoint_name):
+def handle_file(db, filename, endpoint_name, host):
     file_type = get_file_type(filename)
     if file_type == "csv":
         file = csv_to_geojson(filename, "./uploads/" + endpoint_name)
     if file_type == "geojson":
         file = filename
 
-    feature_collection_to_mongodb(db, file, collection_name=endpoint_name)
+    feature_collection_to_mongodb(db, file, collection_name=endpoint_name, host=host)
 

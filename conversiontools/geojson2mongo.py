@@ -5,9 +5,9 @@ from os import path
 import traceback
 
 
-def feature_collection_to_mongodb(database, file_name, collection_name=None):
+def feature_collection_to_mongodb(database, file_name, collection_name=None, host="localhost"):
     print file_name
-    client = MongoClient('localhost', 27017)
+    client = MongoClient(host, 27017)
     db = client[database]
     if not collection_name:
         collection_name = path.splitext(path.basename(file_name))[0]
@@ -18,7 +18,9 @@ def feature_collection_to_mongodb(database, file_name, collection_name=None):
         features = data["features"]
         id = 0
         for feature in features:
-            print feature
+            #print feature
+            print db
+            print db[collection_name]
             feature["properties"]["loxo_id"] = id
             db[collection_name].insert(feature)
             id += 1

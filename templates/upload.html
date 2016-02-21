@@ -11,6 +11,12 @@
     <style>
 
     </style>
+    <script>
+        $(".upload-button").click(function(){
+            $("body").css("cursor", "wait");
+            $(this).prop("disabled", true);
+        });
+    </script>
 </head>
 <body>
     <div class="container upload-container">
