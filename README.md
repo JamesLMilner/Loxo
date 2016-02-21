@@ -53,15 +53,26 @@ The stats endpoint also supports the following geo statistical operations:
 Loxo currently only handles geometries in the WGS84 coordinate system (as this is what GeoJSON and MongoDB use). Some end points haven't been fully tested with different geometry types so may fail.
 
 ## How do I set it up?
-Install MongoDB and run the loxoapi.py file. Make sure you install the dependencies (I need to setup a requirements.txt)
+
+Using Docker:
+
+    docker build
+    docker up
+
+If you're on Windows you will need to run this beforehand also:
+
+    docker run --rm -i -t -p 80:80 nginx
+
+Without Docker:
+
+Download and install MongoDB, run the service and then run the loxoapi.py file. Make sure you install the dependencies (I need to setup a requirements.txt)
 
 ## What about the docs?
 I know, I know, I'll get something up ASAP.
 
 ## What's on the roadmap?
 
-    * requirements.txt
-    * Docker
+    * Clarifying this readme
     * Docs
     * Authentication
 
