@@ -1,27 +1,37 @@
-from pymongo import MongoClient, GEO2D, DESCENDING
+from pymongo import MongoClient, GEO2D, DESCENDING, errors
 from flask import Flask, make_response, request, Blueprint, render_template, redirect, url_for, send_from_directory
 from bson.json_util import dumps
 from werkzeug.utils import secure_filename
-from loxoutils import *
-from loxostats import *
 from ast import literal_eval
 from bson.son import SON
 import json
 import os
 
-#Flask Setup
+from loxoutils import *
+from loxostats import *
+from loxoerrors import *
 
+# Flask Setup
+DB_DOWN = False
 UPLOAD_FOLDER = 'uploads'
 ALLOWED_EXTENSIONS = set(['kml', 'zip', 'geojson', 'csv', "png"])
 
 app = Flask(__name__)
-
-mdb_port = 27017
-host = os.environ.get('LOXO_DB_1_PORT_27017_TCP_ADDR', 'localhost')
-
-client = MongoClient(host, mdb_port)
 app.register_blueprint(stats_api, url_prefix='/loxo/<database>/collections/<dataset>/stats')
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
+
+
+# MongoDB Setup
+try:
+    mdb_port = 27017
+    host = os.environ.get('LOXO_DB_1_PORT_27017_TCP_ADDR', 'localhost')
+    client = MongoClient(host, mdb_port, serverSelectionTimeoutMS=1) #Checks to see if MDB is up
+    client.server_info()
+
+except errors.ServerSelectionTimeoutError as err:
+    DB_DOWN = True
+    print "MongoDB is down :", err
+
 
 #API Endpoints
 
@@ -53,7 +63,7 @@ def upload_file():
             database = request.form.get("database")
             if not database:
                 print request.form["database"]
-                return "Something went wrong with the database"
+                raise InvalidUsage("Database name was not provided", 400, '{ "error" : "database was not provided" }')
             else:
                 handle_file(database, file_location, endpoint_name, host)
 
@@ -172,13 +182,16 @@ def get_data_by_id(database, dataset, id):
     return_feature = find_features(collection, {get_property : id})
     return make_response( return_feature )
 
-@app.errorhandler(404)
-def page_not_found(error):
-    return 'This page does not exist', 404
+## Error handling
+apply_error_handling(app)
+
 
 if __name__ == '__main__':
-    if host == 'localhost':
-        app.run(host='localhost')
-    else:
-        # DOCKER
-        app.run(host='0.0.0.0')
+
+    if DB_DOWN == False:
+        if host == 'localhost':
+
+            app.run(host='localhost')
+        else:
+            # DOCKER
+            app.run(host='0.0.0.0')
