@@ -54,7 +54,7 @@ Loxo currently only handles geometries in the WGS84 coordinate system (as this i
 
 ## How do I set it up?
 
-Using Docker:
+**Using Docker**:
 
     docker build
     docker up
@@ -63,7 +63,7 @@ If you're on Windows you will need to run this beforehand also:
 
     docker run --rm -i -t -p 80:80 nginx
 
-Without Docker:
+**Without Docker**:
 
 Download and install MongoDB, run the MongoDB service and then run the loxoapi.py file. The default site is localhost:5000. Make sure you install the dependencies:
 
