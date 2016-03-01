@@ -65,7 +65,9 @@ If you're on Windows you will need to run this beforehand also:
 
 Without Docker:
 
-Download and install MongoDB, run the service and then run the loxoapi.py file. Make sure you install the dependencies (I need to setup a requirements.txt)
+Download and install MongoDB, run the MongoDB service and then run the loxoapi.py file. The default site is localhost:5000. Make sure you install the dependencies:
+
+    pip install -r requirements.txt
 
 ## What about the docs?
 I know, I know, I'll get something up ASAP.
