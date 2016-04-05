@@ -1,4 +1,4 @@
-# Loxo
+# :globe_with_meridians: Loxo
 
 ## What is Loxo?
 Loxo is a queryable GeoJSON API. Loxo digest various geographic formats (shapefiles, KML, CSV, geojson) and aims to turn them into a nice set of
